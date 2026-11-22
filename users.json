@@ -1,0 +1,54 @@
+
+[
+    {
+      "userId": "1",
+      "name": "Dheeraj",
+      "email": "dheeraj@gmail.com"
+    },
+    {
+      "userId": "2",
+      "name": "Rahul",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "userId": "3",
+      "name": "Priya",
+      "email": "priya@gmail.com"
+    },
+    {
+      "userId": "4",
+      "name": "Arjun",
+      "email": "arjun@gmail.com"
+    },
+    {
+      "userId": "5",
+      "name": "Sneha",
+      "email": "sneha@gmail.com"
+    },
+    {
+      "userId": "6",
+      "name": "Kiran",
+      "email": "kiran@gmail.com"
+    },
+    {
+      "userId": "7",
+      "name": "Ananya",
+      "email": "ananya@gmail.com"
+    },
+    {
+      "userId": "8",
+      "name": "Vikram",
+      "email": "vikram@gmail.com"
+    },
+    {
+      "userId": "9",
+      "name": "Pooja",
+      "email": "pooja@gmail.com"
+    },
+    {
+      "userId": "10",
+      "name": "Rohit",
+      "email": "rohit@gmail.com"
+    }
+  ]
+  
